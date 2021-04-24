@@ -14,4 +14,4 @@ You will see a file named as NVIM_CONFIGURATION
 4. ls
 5. cp -r nvim ~/.config
 ```
-
+NOTE:- If you already have a nvim folder in your ~/.config location , just delete it or let it be replaced
